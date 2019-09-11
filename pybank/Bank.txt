@@ -1,0 +1,6 @@
+Financial Analysis
+Months:86
+Total Profits:$ 38382578
+Average Monthly Proft: $7803.48
+Largest Profit Month: Feb-2012; Profit: $1170593
+Largest Loss Month: Sep-2013; Proft: $-1196225
